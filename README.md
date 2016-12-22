@@ -1,3 +1,3 @@
 # ArrayFlattener
 
-A simple elixir script that flattens arrays.
+A simple elixir script that flattens arrays
